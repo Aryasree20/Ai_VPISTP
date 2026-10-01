@@ -1,0 +1,17 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+ai_spot/
+STUDENT_GUIDE.md
+STUDENT_NOTES.md
+TRAINER_GUIDE.md
+TEACHER_GUIDE.md
+TRAINING_*.md
+INSTRUCTOR_*.md
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+*.log
